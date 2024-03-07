@@ -1,0 +1,4 @@
+repository "Waiting for godot@wechat_os_qy0-qn_g4m2fmgdx11hmwjeyw@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
